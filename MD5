@@ -1,13 +1,14 @@
-6bbc80bbe0bbe5dd797a3032114e98ce *DESCRIPTION
+0530df6898b75724126806c4f4b21c8c *DESCRIPTION
 d2af8d4e659e4f39b780630e483e8edd *NAMESPACE
-2a8d5af08aaf99a38712b8a019ff0f68 *NEWS.md
-88b51dd0c815ea7782b89047222707a3 *R/gen_functions.R
+b3e1e59f2f69cc5b8cf2e3ddd6ed82c9 *NEWS
+4051f4b42913f6994fb9f3ff9801c744 *NEWS.md
+edd2dab911343b49e8d97d168a27b1c4 *R/gen_functions.R
 8724fd82697d7906a98a3f55207aec32 *R/gen_globals.R
 a42b85685f85959f280f761f3b02ab17 *R/uniset.R
 fff24d867ebe15160a2e2b7d3d300907 *README.md
 e05e3627dd0d1bb74d3c469019349c45 *inst/examples/dogPack/DESCRIPTION
 cb5d295b6185a11ac0bb6fa360d34e6e *inst/examples/dogPack/NAMESPACE
-a9293afd5b36aa5d79cdfc9c00fd35b6 *inst/examples/dogPack/R/dogPackFunc.R
+a9293afd5b36aa5d79cdfc9c00fd35b6 *inst/examples/dogPack/R/dogPackFunc.r
 e2e7eeb044ada3a39165112ccd806f89 *inst/examples/dogPack/man/dogPack_demo_No_autoUpS.Rd
 42657c13d2d4dcf1e4fbf59720e0f61d *inst/examples/dogPack/man/dogPack_demo_autoUpS.Rd
 16b728e5060bca12865393419c0b118c *inst/examples/dogPack/man/dogPack_demo_setup.Rd
@@ -48,4 +49,4 @@ e3fc0e34907149f51c120d416335dcf8 *inst/testHelpers/dopaem/man/dogPack_updateSett
 c777ffad33299944d4eac4d39c0db097 *man/uniset_test.Rd
 48ef0ca5bb6979d3e93c96a1a59fd8f9 *man/uniset_updateSettings.Rd
 c16c6fcf6c36e8ec616383d0dcd6727a *tests/testthat.R
-3f2b9a6806ecacb304d625a033b66a64 *tests/testthat/test-gen_functions.R
+32a799b2e1ad8e7a3f9d5bebc76149fa *tests/testthat/test-gen_functions.R
